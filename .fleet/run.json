@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "python",
+            "name": "Python configuration",
+            "file": "Code/Image2Sound.py",
+            "arguments": [],
+        },
+        
+    ]
+}
